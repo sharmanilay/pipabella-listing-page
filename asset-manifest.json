@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pipabella-listing-page/static/css/main.96c24bb0.chunk.css",
+    "main.js": "/pipabella-listing-page/static/js/main.3f063b69.chunk.js",
+    "main.js.map": "/pipabella-listing-page/static/js/main.3f063b69.chunk.js.map",
+    "runtime~main.js": "/pipabella-listing-page/static/js/runtime~main.62314323.js",
+    "runtime~main.js.map": "/pipabella-listing-page/static/js/runtime~main.62314323.js.map",
+    "static/js/2.1268833f.chunk.js": "/pipabella-listing-page/static/js/2.1268833f.chunk.js",
+    "static/js/2.1268833f.chunk.js.map": "/pipabella-listing-page/static/js/2.1268833f.chunk.js.map",
+    "index.html": "/pipabella-listing-page/index.html",
+    "precache-manifest.4dce3ca1ef11276a6b5ebb9c3a3f790e.js": "/pipabella-listing-page/precache-manifest.4dce3ca1ef11276a6b5ebb9c3a3f790e.js",
+    "service-worker.js": "/pipabella-listing-page/service-worker.js",
+    "static/css/main.96c24bb0.chunk.css.map": "/pipabella-listing-page/static/css/main.96c24bb0.chunk.css.map",
+    "static/media/download.svg": "/pipabella-listing-page/static/media/download.b054d328.svg"
+  }
+}
